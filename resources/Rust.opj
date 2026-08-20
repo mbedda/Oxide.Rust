@@ -8035,7 +8035,7 @@
                 "Network.Connection"
               ]
             },
-            "MSILHash": "NpG9W0iSEfo7x4Cg+5wXNYN5ffRL72g//x7L8gWWrGY=",
+            "MSILHash": "qcxJh9z5avICfO1nsSPPkWTlflqLFwCa/9k958k7WHQ=",
             "HookCategory": "Player"
           }
         },
@@ -13942,7 +13942,7 @@
             "TypeName": "WaterCatcher",
             "Flagged": false,
             "Signature": {
-              "Exposure": 0,
+              "Exposure": 1,
               "Name": "CollectWater",
               "ReturnType": "System.Void",
               "Parameters": []
@@ -28591,7 +28591,7 @@
           "Flagged": false,
           "Signature": {
             "Exposure": [
-              0
+              1
             ],
             "Name": "collectInterval",
             "FullTypeName": "System.Single WaterCatcher::collectInterval",
@@ -28610,7 +28610,7 @@
           "Flagged": false,
           "Signature": {
             "Exposure": [
-              0
+              1
             ],
             "Name": "IsFull",
             "FullTypeName": "System.Boolean",
@@ -28629,7 +28629,7 @@
           "Flagged": false,
           "Signature": {
             "Exposure": [
-              0
+              1
             ],
             "Name": "CollectWater",
             "FullTypeName": "System.Void",
@@ -28648,7 +28648,7 @@
           "Flagged": false,
           "Signature": {
             "Exposure": [
-              0
+              1
             ],
             "Name": "AddResource",
             "FullTypeName": "System.Void",
