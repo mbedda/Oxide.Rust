@@ -7345,7 +7345,7 @@
                 "BaseEntity/RPCMessage"
               ]
             },
-            "MSILHash": "YpNOrUUV/7/QbfI1qOWyUqBTuc8y+h//GOKwcWUMjwI=",
+            "MSILHash": "LHiaX0YUvxq5casl0hxcS75UEokx70quS8aBB9+06iI=",
             "HookCategory": "Player"
           }
         },
@@ -13970,7 +13970,7 @@
               "ReturnType": "System.Void",
               "Parameters": []
             },
-            "MSILHash": "KEHlRzW5oQeLc2ac6AMfCbJPPgZTjI2Zem6zKHZ5wzw=",
+            "MSILHash": "k2AoldA043228cyNjlNH7/9dd6lRUGsuzhPz3T1qC5A=",
             "HookCategory": "Entity"
           }
         },
