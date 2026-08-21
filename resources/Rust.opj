@@ -549,7 +549,7 @@
                 "BaseEntity/RPCMessage"
               ]
             },
-            "MSILHash": "27RSEnErCV/my/6/ESvrpvG/yGncbW5pLE9EJ99nJOw=",
+            "MSILHash": "UUT0Pe0rfUUaiqLmmheaOVKtUB1zbC4SbwF0b5oeKbw=",
             "HookCategory": "Player"
           }
         },
@@ -6060,7 +6060,7 @@
                 "System.Boolean"
               ]
             },
-            "MSILHash": "wg0b8evVUtR6Dx7bBlJLd/iLVayvVbM8SaquMq3LiGo=",
+            "MSILHash": "0UWcSSuSQ2GSig7kaTcLcbQrd6c9EWvEuwWF2IFILCw=",
             "HookCategory": "Player"
           }
         },
@@ -9787,7 +9787,7 @@
                 "System.Boolean"
               ]
             },
-            "MSILHash": "Okqik8X+YfX4N7dpGQ3qwGD+OMvexiWf/aSJg+lCPa0=",
+            "MSILHash": "4cnzno51DnBIJ/YvERJoyrVHt0f+6JwsmYG5Rv4I91o=",
             "HookCategory": "Player"
           }
         },
@@ -9816,7 +9816,7 @@
                 "System.Boolean"
               ]
             },
-            "MSILHash": "Okqik8X+YfX4N7dpGQ3qwGD+OMvexiWf/aSJg+lCPa0=",
+            "MSILHash": "4cnzno51DnBIJ/YvERJoyrVHt0f+6JwsmYG5Rv4I91o=",
             "BaseHookName": "OnPlayerCorpseSpawn",
             "HookCategory": "Player"
           }
@@ -13650,7 +13650,7 @@
               "ReturnType": "System.Void",
               "Parameters": []
             },
-            "MSILHash": "p9XVA60oKlkSfinCimW94ftVDXbItA9vURKwNV6jT2Y=",
+            "MSILHash": "I1sG+Q8K9vRccgflOFeLS/04s8nAIGNk2x2Pvlc30JA=",
             "HookCategory": "Player"
           }
         },
@@ -16380,7 +16380,7 @@
         {
           "Type": "Simple",
           "Hook": {
-            "InjectionIndex": 415,
+            "InjectionIndex": 425,
             "ReturnBehavior": 0,
             "ArgumentBehavior": 0,
             "HookTypeName": "Simple",
@@ -16395,7 +16395,7 @@
               "ReturnType": "System.Void",
               "Parameters": []
             },
-            "MSILHash": "NJ9WbwdD2vXzUz68qKah+I8V8G7k3jP99adjI4kSy0c=",
+            "MSILHash": "zOMcYY3RBVOSEFQWbl8ekvSmnkVmA4j6LGAWuGLoEP8=",
             "HookCategory": "Server"
           }
         },
@@ -21569,7 +21569,7 @@
             "Name": "OnFeedbackReported",
             "HookName": "OnFeedbackReported",
             "AssemblyName": "Assembly-CSharp.dll",
-            "TypeName": "BasePlayer/<OnFeedbackReport>d__764",
+            "TypeName": "BasePlayer/<OnFeedbackReport>d__763",
             "Flagged": false,
             "Signature": {
               "Exposure": 0,
@@ -21577,7 +21577,7 @@
               "ReturnType": "System.Void",
               "Parameters": []
             },
-            "MSILHash": "m9aRzAmCLz1raEnOcUXK1BFbzekZsLYZbSwfS4SPEfo=",
+            "MSILHash": "x7rIKGWainz+WRIa7Fvfw7gdyYsQQtcu2KQc0JLYNEs=",
             "HookCategory": "Player"
           }
         },
@@ -21591,7 +21591,7 @@
             "Name": "OnFeedbackReported [patch]",
             "HookName": "OnFeedbackReported",
             "AssemblyName": "Assembly-CSharp.dll",
-            "TypeName": "BasePlayer/<OnFeedbackReport>d__764",
+            "TypeName": "BasePlayer/<OnFeedbackReport>d__763",
             "Flagged": false,
             "Signature": {
               "Exposure": 0,
@@ -21599,7 +21599,7 @@
               "ReturnType": "System.Void",
               "Parameters": []
             },
-            "MSILHash": "m9aRzAmCLz1raEnOcUXK1BFbzekZsLYZbSwfS4SPEfo=",
+            "MSILHash": "x7rIKGWainz+WRIa7Fvfw7gdyYsQQtcu2KQc0JLYNEs=",
             "BaseHookName": "OnFeedbackReported",
             "HookCategory": "_Patches"
           }
@@ -21615,7 +21615,7 @@
             "Name": "OnPlayerReported",
             "HookName": "OnPlayerReported",
             "AssemblyName": "Assembly-CSharp.dll",
-            "TypeName": "BasePlayer/<OnPlayerReported>d__763",
+            "TypeName": "BasePlayer/<OnPlayerReported>d__762",
             "Flagged": false,
             "Signature": {
               "Exposure": 0,
@@ -21623,7 +21623,7 @@
               "ReturnType": "System.Void",
               "Parameters": []
             },
-            "MSILHash": "6sC68DKMZJW1QNAn0saJsRhSNsuMWRIVOtwL7y3WhNU=",
+            "MSILHash": "blirulmBzXs4lGRIYnx0pO5pNpRh624+oF53E0/aJV0=",
             "HookCategory": "Player"
           }
         },
@@ -22454,7 +22454,7 @@
               "ReturnType": "System.Void",
               "Parameters": []
             },
-            "MSILHash": "RaDodIMMEYLKzDNbKrT3dpiftyf816sRT5L3+rxPVBw=",
+            "MSILHash": "5xz9ox+LqBR/EuXD5RJHJHOQ/6MmOItLriuDaWZ6B6U=",
             "HookCategory": "Player"
           }
         },
@@ -22480,7 +22480,7 @@
                 "System.Boolean"
               ]
             },
-            "MSILHash": "uSJtQVT8FmuMBHnND9IPdtpjnVXLaLVvwK0aAh8hi3Y=",
+            "MSILHash": "vlcKu4PBshfoyoB9t6c01MuYevaLPy4+w/rBR1F9c5Y=",
             "HookCategory": "Player"
           }
         },
@@ -22588,7 +22588,7 @@
                 "BaseEntity/RPCMessage"
               ]
             },
-            "MSILHash": "27RSEnErCV/my/6/ESvrpvG/yGncbW5pLE9EJ99nJOw=",
+            "MSILHash": "UUT0Pe0rfUUaiqLmmheaOVKtUB1zbC4SbwF0b5oeKbw=",
             "BaseHookName": "OnPlayerAttack [Projectile]",
             "HookCategory": "_Patches"
           }
@@ -22668,7 +22668,7 @@
                 "System.Boolean"
               ]
             },
-            "MSILHash": "cj4fUapZEWh9KViZPHJ3R1Oovgtu+gCBpKDZLrfB/3c=",
+            "MSILHash": "cX93J8s+w1ykxAncX6hPZIGXPMQRaU55vhyNiYelNF0=",
             "HookCategory": "Apartments"
           }
         },
@@ -22700,7 +22700,7 @@
         {
           "Type": "Simple",
           "Hook": {
-            "InjectionIndex": 150,
+            "InjectionIndex": 158,
             "ReturnBehavior": 0,
             "ArgumentBehavior": 3,
             "ArgumentString": "this",
@@ -22718,7 +22718,7 @@
                 "BasePlayer"
               ]
             },
-            "MSILHash": "hrinIEDMdzHXIgXWaWnTcERmqalgtd/ghZCPNDU3Yjg=",
+            "MSILHash": "zTkPLfdmGxAFIEBDmpgAUqUupd/HYosrXbBXtkQJzLo=",
             "HookCategory": "Apartments"
           }
         },
@@ -22819,7 +22819,7 @@
                 "BaseEntity/RPCMessage"
               ]
             },
-            "MSILHash": "n1jc6I183TSHuij/rAgne9naFR7UVn5HJf29aon866w=",
+            "MSILHash": "jj5hfgUVFYw3rbCl8euWMI1S9WYIME6vbDuX1nMbjHU=",
             "HookCategory": "Apartments"
           }
         },
